@@ -8,14 +8,16 @@ A simple GitHub repository containing a dragon image.
 
 
 ## 📁 Files
-
+* `INDEX.HTML` — Dragon BODY AND LAYOUT
+* `STYLE.CSS`  - STYLE OF THE DRIGON
+* `JS`=AUTO MOVEMENT  
 * `dragon.png` — Dragon image
 * `README.md` — Project information
 
 ## 🚀 How to Use
 
 1. Download or clone this repository.
-2. Open `dragon.png` to view the image.
+2. Open to view the image.
 3. You can use the image as a desktop wallpaper, project asset, or design inspiration.
 
 ## 💻 About
